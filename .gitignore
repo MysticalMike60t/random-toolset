@@ -1,0 +1,15 @@
+*.env*
+.venv/
+.git/
+build/
+out/
+dist/
+package/
+*.zip
+*.tar.*
+*.7z
+*.o
+*.a
+*.log
+
+!.env.example
